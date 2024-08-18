@@ -2,7 +2,7 @@
 This is multiwii 2.3 version with baro module bmp180
 
 <h1>BMP180 for Multiwii 2.3 Firmware</h1>
-<p>BMP180 is compatible (equivalent) of BMP085. BMP180 is opitmized version of BMP085. We don't need to config to use BMP180. Multiwii will recognize BMP180 as BMP085.</p>
+<p>BMP180 is compatible (equivalent) of BMP085. BMP180 is optimized version of BMP085. We don't need to config to use BMP180. Multiwii will recognize BMP180 as BMP085.</p>
 <p>In this project, I have already included BMP180 in multiwii 2.3 for LADYBIRD which only supports for brushed ESC and Brushed DC Motor, e.g. 720, 820, 8520, etc.</p>
 
 <h2>WIRING</h2>
