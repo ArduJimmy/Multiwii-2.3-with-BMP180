@@ -9,3 +9,6 @@ This is multiwii 2.3 version with baro module bmp180
 <p>As in <a href="https://github.com/ArduJimmy/Multiwii-2.3-with-BMP280" target="_blank">BMP280</a>, BMP180 has 4 pins: VCC (3.3v), GND, SCL, SDA. Connect all pins like you do with MPU6050 (use only 3.3v for both VCCs.</p>
 
 See Video Demo at <a href="https://www.youtube.com/@ardujimmy" target="_blank">Ardujimmy</a>: https://www.youtube.com/@ardujimmy
+
+<p><img src="https://github.com/ArduJimmy/Multiwii-2.3-with-BMP180/blob/main/bmp180_multiwii_ladybird2.png"/></p>
+<p><img src="https://github.com/ArduJimmy/Multiwii-2.3-with-BMP180/blob/main/bmp180_multiwii_ladybird1.png"/></p>
