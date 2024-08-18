@@ -6,4 +6,6 @@ This is multiwii 2.3 version with baro module bmp180
 <p>In this project, I have already included BMP180 in multiwii 2.3 for LADYBIRD which only supports for brushed ESC and Brushed DC Motor, e.g. 720, 820, 8520, etc.</p>
 
 <h2>WIRING</h2>
-<p>As in BMP280, BMP180 has 4 pins: VCC (3.3v), GND, SCL, SDA. Connect all pins like you do with MPU6050 (use only 3.3v for both VCCs.</p>
+<p>As in <a href="https://github.com/ArduJimmy/Multiwii-2.3-with-BMP280" target="_blank">BMP280</a>, BMP180 has 4 pins: VCC (3.3v), GND, SCL, SDA. Connect all pins like you do with MPU6050 (use only 3.3v for both VCCs.</p>
+
+See Video Demo at <a href="https://www.youtube.com/@ardujimmy" target="_blank">Ardujimmy</a>: https://www.youtube.com/@ardujimmy
