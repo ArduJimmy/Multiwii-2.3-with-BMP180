@@ -12,3 +12,8 @@ See Video Demo at <a href="https://www.youtube.com/@ardujimmy" target="_blank">A
 
 <p><img src="https://github.com/ArduJimmy/Multiwii-2.3-with-BMP180/blob/main/bmp180_multiwii_ladybird2.png"/></p>
 <p><img src="https://github.com/ArduJimmy/Multiwii-2.3-with-BMP180/blob/main/bmp180_multiwii_ladybird1.png"/></p>
+
+DEMO: https://www.youtube.com/watch?v=faujS0-xZDQ
+
+But ATTENTION!
+I prefer using BMP280 to BMP180 since BMP280 relatively more stable than BMP180
